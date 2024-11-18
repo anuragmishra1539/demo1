@@ -1,4 +1,3 @@
-random:
-  property1: "This is the first random property"
-  property2: "This is the second random property"
-  property3: "This is the third random property"
+property1: "This is the first random property"
+property2: "This is the second random property"
+property3: "This is the third random property"
